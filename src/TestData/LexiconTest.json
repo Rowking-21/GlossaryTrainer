@@ -1,0 +1,12 @@
+{
+    "LexiconEntries": [
+        {
+            "Language1": [ "pulka" ],
+            "Language2": [ "sledge" ]
+        },
+        {
+            "Language1": [ "pigg" ],
+            "Language2": [ "spirited", "fresh" ]
+        }
+    ]
+}

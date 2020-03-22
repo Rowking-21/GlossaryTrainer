@@ -1,0 +1,9 @@
+src/bin/
+src/obj/
+_templates
+_static
+_build
+/packages
+.vscode
+.vs
+*.code-workspace
